@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "skill-install-audit",
+  "source_version": "9e745e834d9b2b8778f6c7df33d3f55fe616517336e6c970666d7a75c4e31c68",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "c57b9a8e6d9531a9f0da71e7c44a5f8dce9a8c9b186780df00e10a6f3f6633f4",
+    "SKILL.md": "29e045f0b2e34045f9071bd462ea3dc32cb0b7e77e8e3ef8f48a1d3567cdb755",
+    "references/contract.md": "7232570fbc47a0d0b6002907aaf1c72d91c3a34c3b36f7afd7a2d044eddba571",
+    "scripts/audit.py": "18d2404a556344710aacefa020e1369c9d585884ed31b2b682efbdf46825eda0"
+  }
+}
